@@ -1,8 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Babor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/PwSB.gif">
+<img  align="right" alt="coding" width="400" src="https://i.gifer.com/JM9R.gif"  />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhannanbabor&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhannanbabor" /> </p>
 
@@ -41,4 +41,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhannanbabor&show_icons=true&locale=en&layout=compact" alt="abdulhannanbabor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhannanbabor&show_icons=true&locale=en" alt="abdulhannanbabor" /></p>
-](https://i.gifer.com/JM9R.gif)](https://i.gifer.com/JM9R.gif)
