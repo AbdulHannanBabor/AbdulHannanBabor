@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Babor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" height="250" width="250" src="https://github.com/AbdulHannanBabor/AbdulHannanBabor/blob/main/KindDistortedIrrawaddydolphin-size_restricted.gif">
+<img align="right" height="250" width="500" src="https://github.com/AbdulHannanBabor/AbdulHannanBabor/blob/main/KindDistortedIrrawaddydolphin-size_restricted.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhannanbabor&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhannanbabor" /> </p>
