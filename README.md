@@ -1,4 +1,4 @@
-
+[[
 <h1 align="center">Hi 👋, I'm Babor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
@@ -41,3 +41,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhannanbabor&show_icons=true&locale=en&layout=compact" alt="abdulhannanbabor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhannanbabor&show_icons=true&locale=en" alt="abdulhannanbabor" /></p>
+](https://i.gifer.com/JM9R.gif)](https://i.gifer.com/JM9R.gif)
